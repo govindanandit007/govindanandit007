@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @govindanandit007
-- 👀 I’m interested in Typescript, Angular, CSS3, HTML5, Animations
+- 👋 Hi, I’m Govind Anand
+- 👀 I’m interested in Typescript, Angular, CSS3, HTML5, Animations.
 - 🌱 I’m currently learning Angular performance, Basic Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/govind-anand/
